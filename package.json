@@ -1,4 +1,11 @@
 {
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
   "dependencies": {
     "compression": "^1.7.5",
     "cors": "^2.8.5",
